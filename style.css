@@ -115,7 +115,7 @@ button:active {
 
 /* Loader */
 .loader {
-    border: 16px solid #f3f3f3; /* Light grey */
+    border: 16px solid #e3c505; /* Light grey */
     border-top: 16px solid rgb(60, 140, 206); /* Blue */
     border-radius: 50%;
     width: 120px;
